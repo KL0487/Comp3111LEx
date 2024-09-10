@@ -3,4 +3,4 @@
 ### HAHA
 #### HAHA
 
-![img.png](Lab1/img.png)
+![img.png](../img.png)
